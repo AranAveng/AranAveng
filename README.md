@@ -1,6 +1,6 @@
-# Hi there, I'm Aran 👋
+# Hi there, I'm Aran Aveng 👋 
 
-Full-Stack & Web3 Developer focused on building interactive web applications, decentralized tooling, and automated systems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Full-Stack+%26+Web3+Developer;Building+Interactive+Web+Apps;DeFi+%26+On-Chain+Automation)](https://git.io/typing-svg)
 
 - 🔭 **Currently working on:** DeFi/prediction market algorithms and interactive web tools.
 - 🌱 **Learning:** Smart contract architectures & advanced frontend systems.
@@ -28,11 +28,12 @@ Full-Stack & Web3 Developer focused on building interactive web applications, de
 | :--- | :--- | :--- |
 | **[polymaxx-simulator](https://github.com/AranAveng/polymaxx-simulator)** | AI agent watching Polymarket whale trades to execute on-chain copy trades via KeeperHub. | `JavaScript` `Web3` `AI` |
 
-
----
-
 ---
 
 ### 📈 GitHub Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AranAveng&theme=react-dark)
+
+<p align="center">
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=AranAveng&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
