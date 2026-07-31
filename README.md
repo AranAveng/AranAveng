@@ -4,8 +4,10 @@ Full-Stack & Web3 Developer focused on building interactive web applications, de
 
 - 🔭 **Currently working on:** DeFi/prediction market algorithms and interactive web tools.
 - 🌱 **Learning:** Smart contract architectures & advanced frontend systems.
-- ⚡ **Tech Stack:** React, JavaScript, Tailwind CSS, HTML/CSS, Web3.
+- 💬 **Telegram:** [@aranaveng1](https://t.me/aranaveng1)
 - 📫 **Reach me on X:** [@RAKOUN560](https://x.com/RAKOUN560)
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aranaveng1)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RAKOUN560)
 
 ---
 
