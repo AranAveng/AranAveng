@@ -4,10 +4,9 @@ Full-Stack & Web3 Developer focused on building interactive web applications, de
 
 - 🔭 **Currently working on:** DeFi/prediction market algorithms and interactive web tools.
 - 🌱 **Learning:** Smart contract architectures & advanced frontend systems.
-- 💬 **Telegram:** [@aranaveng1](https://t.me/aranaveng1)
-- 📫 **Reach me on X:** [@RAKOUN560](https://x.com/RAKOUN560)
-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aranaveng1)
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RAKOUN560)
+- 💬 **Connect with me:** 
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aranaveng1)
+  [![X/Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/RAKOUN560)
 
 ---
 
@@ -18,6 +17,8 @@ Full-Stack & Web3 Developer focused on building interactive web applications, de
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -30,4 +31,8 @@ Full-Stack & Web3 Developer focused on building interactive web applications, de
 
 ---
 
+---
+
+### 📈 GitHub Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AranAveng&theme=react-dark)
 
