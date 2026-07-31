@@ -33,7 +33,5 @@
 ### 📈 GitHub Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AranAveng&theme=react-dark)
 
-<p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=AranAveng&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+![Aran's GitHub Streak](https://readme-stats-markdown.vercel.app/api?username=AranAveng&theme=dark)
 
