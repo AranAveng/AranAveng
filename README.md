@@ -26,9 +26,8 @@ Full-Stack & Web3 Developer focused on building interactive web applications, de
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[polymaxx-simulator](https://github.com/AranAveng/polymaxx-simulator)** | AI agent watching Polymarket whale trades to execute on-chain copy trades via KeeperHub. | `JavaScript` `Web3` `AI` |
-| **[cap-schema-validator](https://github.com/AranAveng/cap-schema-validator)** | Schema validation utility for data structure integrity. | `JavaScript` |
+
 
 ---
 
-📈 **GitHub Stats**
-![Aran's GitHub stats](https://github-readme-stats.vercel.app/api?username=AranAveng&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=AranAveng&layout=compact&theme=dark)
