@@ -33,5 +33,5 @@
 ### 📈 GitHub Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AranAveng&theme=react-dark)
 
-![Aran's GitHub Streak](https://readme-stats-markdown.vercel.app/api?username=AranAveng&theme=dark)
+
 
