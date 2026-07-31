@@ -30,4 +30,4 @@ Full-Stack & Web3 Developer focused on building interactive web applications, de
 
 ---
 
-![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=AranAveng&layout=compact&theme=dark)
+
