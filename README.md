@@ -27,7 +27,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[polymaxx-simulator](https://github.com/AranAveng/polymaxx-simulator)** | AI agent watching Polymarket whale trades to execute on-chain copy trades via KeeperHub. | `JavaScript` `Web3` `AI` |
-| **[Darkpoolapp](https://github.com/AranAveng/darkpool-app)** |Private, blockchain-based prediction markets built on Flare Coston2. | TypeScript Web3 Solidity Next.js Hardhat |
+| **[Darkpoolapp](https://github.com/AranAveng/darkpool-app)** |Private, blockchain-based prediction markets built on Flare Coston2. | `TypeScript` `Web3` `Solidity` `Next.js` `Hardhat` |
 
 ---
 
