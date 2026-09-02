@@ -32,7 +32,8 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AranAveng&theme=react-dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AranAveng&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AranAveng&layout=compact&theme=tokyonight)
 
 
